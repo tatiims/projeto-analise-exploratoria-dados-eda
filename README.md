@@ -5,7 +5,9 @@ Projeto de Análise Exploratória de Dados (EDA) desenvolvido em dupla utilizand
 Entregáveis & Técnicas Aplicadas:
 
 • Limpeza & Qualidade de Dados (Data Wrangling): Tratamento de valores ausentes/nulos, remoção de duplicatas e conversão de tipos de dados com Pandas.
+
 • Análise Estatística & Agregações: Filtragem, agrupamento e cálculo de métricas para identificar distribuições por país, ano de lançamento, gênero e classificações indicativas.
+
 • Manipulação Vetorial: Aplicação de operações estruturadas com NumPy para otimização do processamento dos dados.
 
 Ferramentas & Tecnologias: Python, Pandas, NumPy, Análise Exploratória de Dados (EDA), Kaggle, Tratamento de Dados.
