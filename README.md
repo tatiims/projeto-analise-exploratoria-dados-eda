@@ -10,5 +10,5 @@ Entregáveis & Técnicas Aplicadas:
 
 Ferramentas & Tecnologias: Python, Pandas, NumPy, Análise Exploratória de Dados (EDA), Kaggle, Tratamento de Dados.
 
- - Link
-   https://www.kaggle.com/code/tatiims/filmes-e-programas-de-tv-da-netflix
+Link
+https://www.kaggle.com/code/tatiims/filmes-e-programas-de-tv-da-netflix
